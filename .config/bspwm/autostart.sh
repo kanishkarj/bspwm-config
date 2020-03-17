@@ -1,3 +1,2 @@
 redshift;
-discord;
-
+xfce4-power-manager;
